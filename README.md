@@ -5,12 +5,11 @@
 #### By _**Megan Hepner**_
 
 ## Description
-    This page used the .prepend() and .append() methods to add text when the a button is clicked.
+  This page uses the .prepend() and .append() methods to add text when the a button is clicked.
 
 
 ## Setup/Installation Requirements
 
-* use the terminal to clone this repository 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
@@ -21,7 +20,7 @@ _For question, concerns, or if you would like to make contributions to this work
 
 ## Technologies Used
 
-Html, CSS, JQuery, Bootstrap
+Html, JQuery, Bootstrap
 
 ### License
 
